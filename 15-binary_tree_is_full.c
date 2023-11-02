@@ -1,4 +1,3 @@
-15-binary_tree_is_full.c
 #include "binary_trees.h"
 
 /**
