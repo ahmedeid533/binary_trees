@@ -1,7 +1,7 @@
 #include "binary_trees.h"
 
 /**
- * binary_tree_is_leaf - delete tree
+ * binary_tree_is_leaf - check tree
  * @node: the root node
  * Return: 1 if leaf
  */
